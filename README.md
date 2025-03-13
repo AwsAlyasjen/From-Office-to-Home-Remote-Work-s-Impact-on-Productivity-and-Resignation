@@ -43,7 +43,16 @@ By leveraging **Excel** for data cleaning & processing and **Tableau** for visua
 The findings suggest that companies should **prioritize hybrid work models** to maximize productivity and satisfaction. Further research incorporating demographic and financial impacts could provide deeper insights.  
 
 ---
+## 🚀 Future Improvements & Next Steps  
 
+Here are some ways this project could be expanded:  
+
+🔹 **Predictive Analysis** – Use machine learning to predict employee resignation based on work conditions.  
+🔹 **Sentiment Analysis** – Analyze employee feedback to understand deeper dissatisfaction factors.  
+🔹 **Industry Comparison** – Compare remote work impact across different industries.  
+🔹 **Cost Analysis** – Explore financial impacts of remote vs. onsite work (e.g., commuting costs).  
+🔹 **Time-Series Trends** – Use advanced forecasting techniques to track remote work adoption over time.  
+---
 ## 🚀 How to Use This Repository  
 
 1️⃣ Clone the repository  
